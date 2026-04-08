@@ -6,7 +6,7 @@ This project is a responsive web page built using **vanilla HTML, CSS, and JavaS
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-username.github.io/gushwork-assignment/
+🔗 https://shishupalsahu.github.io/gushwork-assignment/
 
 ---
 
